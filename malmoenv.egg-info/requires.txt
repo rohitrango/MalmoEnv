@@ -1,0 +1,4 @@
+gym
+lxml
+numpy
+pillow
